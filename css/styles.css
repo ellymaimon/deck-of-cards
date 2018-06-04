@@ -1,5 +1,6 @@
 img{
   max-height: 200px;
+  margin: 10px 0;
 }
 
 ul {
@@ -10,11 +11,4 @@ ul {
 li {
   display: inline;
   margin: 10px;
-}
-
-.hidden {
-  display: none;
-}
-.show{
-  display: inline;
 }
